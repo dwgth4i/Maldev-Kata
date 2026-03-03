@@ -1,0 +1,17 @@
+*.exe
+*.dll
+*.obj
+*.pdb
+*.ilk
+*.exp
+*.lib
+
+*.bat
+
+.vscode/
+*.user
+*.suo
+.vs/
+
+3. Hooking/3.2 Detour/detours/bin.X64/
+3. Hooking/3.2 Detour/detours/lib.X64/
